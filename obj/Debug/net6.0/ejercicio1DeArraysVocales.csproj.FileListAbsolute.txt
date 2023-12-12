@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\bin\Debug\net6.0\ejercicio1DeArraysVocales.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\bin\Debug\net6.0\ejercicio1DeArraysVocales.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\bin\Debug\net6.0\ejercicio1DeArraysVocales.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\bin\Debug\net6.0\ejercicio1DeArraysVocales.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\bin\Debug\net6.0\ejercicio1DeArraysVocales.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\obj\Debug\net6.0\ejercicio1DeArraysVocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\obj\Debug\net6.0\ejercicio1DeArraysVocales.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\obj\Debug\net6.0\ejercicio1DeArraysVocales.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\obj\Debug\net6.0\ejercicio1DeArraysVocales.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\obj\Debug\net6.0\ejercicio1DeArraysVocales.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\obj\Debug\net6.0\refint\ejercicio1DeArraysVocales.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\obj\Debug\net6.0\ejercicio1DeArraysVocales.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\obj\Debug\net6.0\ejercicio1DeArraysVocales.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeArraysVocales\obj\Debug\net6.0\ref\ejercicio1DeArraysVocales.dll
