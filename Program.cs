@@ -11,7 +11,7 @@ class Program
         char[] vocales = { 'a', 'e', 'i', 'o', 'u' };
 
 
-        char[] vocales2 = { 'a', 'e', 'i', 'o', 'u' };
+        char[] vocales2 = { 'a', 'e', 'i', 'z', 'u' };
 
 
         for (int i = 0; i < 5; i++)
